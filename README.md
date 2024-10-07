@@ -8,4 +8,4 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-App to help in identifying skin conditions given an image and potentially other important information.
+App to help in identifying skin conditions given an image and other potentially important information.
